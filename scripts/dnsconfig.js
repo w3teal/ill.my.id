@@ -7,7 +7,7 @@ var providerCf = DnsProvider(NewDnsProvider("cloudflare", "CLOUDFLAREAPI", {
   // manage_redirects: true,
 }));
 
-var rootDomain = 'part-of.my.id';
+var rootDomain = 'ill.my.id';
 var proxy = {
   on: { "cloudflare_proxy": "on" },
   off: { "cloudflare_proxy": "off" }
