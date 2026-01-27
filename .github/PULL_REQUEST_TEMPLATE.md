@@ -1,6 +1,6 @@
 <!--
     ⚠️⚠️ ****READ FIRST**** ⚠️⚠️
-    1.  You **MUST** read the documentation (https://part-of.my.id/docs) if you have any issue first **BEFORE** opening a pull request
+    1.  You **MUST** read the documentation (https://ill.my.id/) if you have any issue first **BEFORE** opening a pull request
     2.  Note that checkboxes in this template **ARE REQUIRED** so not checking them will result in a possible PR close
         So to get your PR merged, please spend time to review your application before submitting.
         To check an item, add an 'X' between the brackets: '[ ]' => '[X]'
@@ -19,7 +19,7 @@
 - [ ] The CNAME record is a valid FQDN and doesn't contain `https://` or `/`. <!-- ignore if your not using CNAME -->
 - [ ] There is sufficient information at the `owner` field. (including your github `username`)
 - [ ] I own the root subdomain for this nested subdomain. (checklist if you aren't registering a nested subdomain) 
-- [ ] I have read the [README](https://github.com/partofmyid/register) for announcements in case of any updates.
+- [ ] I have read the [README](https://github.com/w3teal/ill.my.id) for announcements in case of any updates.
 - [ ] I know what im doing and everything is ready. <!-- ⚠️⚠️ ****REQUIRED**** ⚠️⚠️ -->
 - [ ] You have stared the repository and followed the organization. <!-- optional but highly recommended ;) -->
 
