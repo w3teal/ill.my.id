@@ -1,0 +1,11 @@
+{
+    "description": "main website",
+    "owner": {
+        "username": "w3teal"
+    },
+    "record": {
+        "A": [
+          "216.198.79.1"
+        ]
+    }
+}
