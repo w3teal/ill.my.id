@@ -5,6 +5,8 @@
         "username": "w3teal"
     },
     "record": {
-        "TXT": "did=did:plc:ci56ccgcfyn5uufeae6i2woq"
+        "TXT": [
+            "did=did:plc:ci56ccgcfyn5uufeae6i2woq"
+        ]
     }
 }
