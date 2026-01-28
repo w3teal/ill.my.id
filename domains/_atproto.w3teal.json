@@ -1,0 +1,10 @@
+{
+    "description": "Domain verification for my Tangled bluesky account.",
+    "owner": {
+        "email": "w39@tuta.io",
+        "username": "w3teal"
+    },
+    "record": {
+        "TXT": "did=did:plc:ci56ccgcfyn5uufeae6i2woq"
+    }
+}
