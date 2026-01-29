@@ -1,0 +1,15 @@
+{
+    "description": "idk",
+    "owner": {
+        "email": "caezarin_aona@tuta.io",
+    },
+    "record": {
+        "TXT": [
+            "v=spf1 include:spf.improvmx.com ~all"
+        ],
+        "MX": [
+            "mx1.improvmx.com",
+            "mx2.improvmx.com"
+        ]
+    }
+}
