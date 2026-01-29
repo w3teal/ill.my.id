@@ -1,0 +1,15 @@
+{
+    "owner": {
+        "email": "w39@tuta.io",
+        "username": "w3teal"
+    },
+    "record": {
+        "TXT": [
+            "v=spf1 include:spf.improvmx.com ~all"
+        ],
+        "MX": [
+            "mx1.improvmx.com",
+            "mx2.improvmx.com"
+        ]
+    }
+}
