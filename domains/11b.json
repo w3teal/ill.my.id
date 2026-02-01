@@ -1,0 +1,10 @@
+{
+    "owner": {
+        "repo": "https://git.sr.ht/~w3teal/11ty-beer",
+        "email": "w39@tuta.io",
+        "username": "w3teal"
+    },
+    "record": {
+        "CNAME": "pages.sr.ht."
+    }
+}
