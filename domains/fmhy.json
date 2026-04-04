@@ -1,0 +1,13 @@
+{
+    "owner": {
+        "repo": "https://git.sr.ht/~w3teal/edit",
+        "email": "w39@tuta.io",
+        "username": "w3teal",
+        "description": "Mirror of fmhy use surge"
+    },
+    "record": {
+        "A": [
+          "45.55.110.124"
+        ]
+    }
+}
