@@ -1,0 +1,13 @@
+{
+    "description": "For my Github Org. 'Team E'",
+    "owner": {
+        "email": "team-e-contact@proton.me",
+        "username": "the-oblyv"
+    },
+    "record": {
+        "NS": [
+            "ns1.desec.io",
+            "ns2.desec.org"
+        ]
+    }
+}
