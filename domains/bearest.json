@@ -1,0 +1,10 @@
+{
+    "owner": {
+        "repo": "https://git.pub.solar/w3teal/bearest",
+        "username": "w3teal",
+        "email": "w39@tuta.io"
+    },
+    "records": {
+        "CNAME": "bearest.pages.dev"
+    }
+}
